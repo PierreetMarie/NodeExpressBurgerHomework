@@ -1,0 +1,20 @@
+img{
+	margin-top:20px;
+}
+
+button{ float: right; }
+
+.container{margin-bottom:40px;}
+
+form{ display: inline; }
+
+#eaten{color:rgb(90, 82, 82);}
+
+body{ background-color: rgb(180, 145, 145) }
+
+h1 {font-family: 'Modak', cursive;
+	font-size: 55px;
+	color: rgb(85, 29, 25);}
+
+body {font-family: 'Lato', sans-serif;
+	font-size: 20px}
